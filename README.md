@@ -1,6 +1,6 @@
 # GPS Tracker PCB Project
 
-![3D view of PCB](Insert_Image_URL_here)
+![3D view of PCB](storage/PCB_3d.png)
 
 ## Overview
 
@@ -23,4 +23,4 @@ Once installed, the GPS Tracker PCB will automatically start tracking the status
 
 ## Contact Information
 
-For further information, support, or if you have any questions or suggestions, please do not hesitate to reach out to us.
+For further information, support, or if you have any questions or suggestions, please do not hesitate to reach out to me email: feodosiy2404@gmail.com
